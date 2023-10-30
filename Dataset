@@ -1,3 +1,5 @@
-create file name dataset
+Create file name dataset
 The dataset used in the project is given below:
 https://drive.google.com/drive/folders/16bJ5JA4OpqCrZTCiCNhsHvxO5kaVxaAY?usp=drive_link
+In this dataset folder, we have to use only data of dataset_xml_format file as we are not using yolo.
+So create a folder named dataset and paste the files of dataset_xml_format
